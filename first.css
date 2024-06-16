@@ -266,3 +266,8 @@ p{
     }
 
 }
+@media (max-height: 684px){
+    .sidenav a{
+        padding: 2vh;
+    }
+}
