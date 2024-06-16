@@ -94,3 +94,8 @@
         margin-left: 0%;
     }
 }
+@media (max-height: 684px){
+    .sidenav a{
+        padding: 2vh;
+    }
+}
