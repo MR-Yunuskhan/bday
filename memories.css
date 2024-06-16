@@ -119,3 +119,8 @@ body {font-family: Verdana, sans-serif;
         height: 400px;
     }
 }
+@media (max-height: 684px){
+    .sidenav a{
+        padding: 2vh;
+    }
+}
