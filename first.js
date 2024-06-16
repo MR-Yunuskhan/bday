@@ -56,7 +56,7 @@ async function isTodayJune15() {
         var today = document.createTextNode(`${date}-${month}-${year}`);
         current_Date.textContent = "";
         current_Date.appendChild(today);
-        return month === 5 && date === 15;
+        return month === 5 && date === 17;
     } else {
         return false;
     }
