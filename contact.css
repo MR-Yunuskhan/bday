@@ -129,3 +129,8 @@ font-size: 3rem;
         max-width: 120px;
     }
 }
+@media (max-height: 684px){
+    .sidenav a{
+        padding: 2vh;
+    }
+}
